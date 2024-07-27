@@ -1,0 +1,8 @@
+"variavel","descricao","tipo","subtipo"
+"total_bill","valor total da conta","quantitativa","continua"
+"tip","valor da gorjeta","quantitativa","continuo"
+"sex","sexo da pessoa que pagou","qualitativa","nominal"
+"smoker", "se a pessoa que pagou é ou não fumante","qualitativa","nominal"
+"day","o dia da semana que a pessoa comeu no restaurante", "qualitativa", "nominal"
+"time","horario da refeicao","qualitativa","nominal"
+"size","quantas pessoas estavam na mesa", "quantitativa","discreto"
